@@ -1,0 +1,58 @@
+1. Describe brevemente qué crees que es la Inteligencia Artificial.
+	- Totalmente en desacuerdo
+	- En desacuerdo
+	- Ni de acuerdo ni en desacuerdo
+	- De acuerdo
+	- Totalmente de acuerdo
+
+2. El nivel técnico que se requiere para entender la Inteligencia Artificial es demasiado alto para la mayor parte de la población. 
+ 	- Totalmente en desacuerdo
+        - En desacuerdo
+        - Ni de acuerdo ni en desacuerdo
+        - De acuerdo
+        - Totalmente de acuerdo
+
+3. Si un algoritmo es capaz de predecir el resultado de un partido de futbol, es muy probable que sea capaz también de predecir el comienzo de la 3ª guerra mundial.
+	- Totalmente en desacuerdo
+        - En desacuerdo
+        - Ni de acuerdo ni en desacuerdo
+        - De acuerdo
+        - Totalmente de acuerdo
+
+4. En menos de 10 años, surgirá algún tipo de Inteligencia Artificial que amenazará seriamente a la Humanidad.
+ 	- Totalmente en desacuerdo
+        - En desacuerdo
+        - Ni de acuerdo ni en desacuerdo
+        - De acuerdo
+        - Totalmente de acuerdo
+
+5. Como usuario, la regulación legal de la Inteligencia Artificial afectará a mi vida.
+	- Totalmente en desacuerdo
+        - En desacuerdo
+        - Ni de acuerdo ni en desacuerdo
+        - De acuerdo
+        - Totalmente de acuerdo
+
+6. Describe brevemente cuales son los principales peligros de la Inteligencia Artificial, si conoces alguno de ellos.
+
+7. Cuando un sistema de Inteligencia Artificial ofrece resultados que discriminan en términos de, por ejemplo, sexo, esto se suele deber a:
+	- Que los desarrolladores del sistema tenían sesgos sexistas.
+        -> Que los datos que se usaron para entrenar al sistema no estaban equilibrados, es decir, que se utilizaron muchos más datos correspondientes a hombres que a mujeres, o viceversa.
+	- Que el sistema refleje la realidad sexista de la naturaleza humana.
+
+8. Mediante el aprendizaje automático (machine learning):
+	- Presentamos al ordenador un conjunto de textos de ejemplo y este, después de procesarlos, es capaz de reconocer únicamente los textos que coincidan exactamente con esos textos de ejemplo.
+	-> Presentamos al ordenador un conjunto de textos de ejemplo y este, después de procesarlos, es capaz de reconocer textos parecidos a dichos textos de ejemplo, pero nuevos, es decir, textos que no ha visto anteriormente.
+	- Presentamos al ordenador un conjunto de textos de ejemplo y este, después de procesarlos, es capaz de reconocer cualquier texto que le presentemos.
+
+9. ¿Cuál de las siguientes afirmaciones es verdadera?
+	-> Los datos de entrenamiento son fundamentales para el aprendizaje automático, sin datos no es posible hacer aprendizaje automático.
+	- Con el aprendizaje automático los ordenadores aprenden a pensar y pueden reconocer cualquier tipo de texto, de la misma manera que lo hace un ser humano.
+	- Cuantos más textos utilizamos para entrenar, peor será el resultado obtenido con el aprendizaje automático.
+
+10. (Sólo en post-test). 10. ¿Te ha parecido LearningML una  aplicación útil para aprender sobre Inteligencia Artificial?
+     	- Totalmente en desacuerdo
+        - En desacuerdo
+        - Ni de acuerdo ni en desacuerdo
+        - De acuerdo
+        - Totalmente de acuerdo
