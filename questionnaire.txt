@@ -50,9 +50,13 @@
 	- Con el aprendizaje automático los ordenadores aprenden a pensar y pueden reconocer cualquier tipo de texto, de la misma manera que lo hace un ser humano.
 	- Cuantos más textos utilizamos para entrenar, peor será el resultado obtenido con el aprendizaje automático.
 
-10. (Sólo en post-test). 10. ¿Te ha parecido LearningML una  aplicación útil para aprender sobre Inteligencia Artificial?
+10. (Sólo en post-test) ¿Te ha parecido LearningML una  aplicación útil para aprender sobre Inteligencia Artificial?
      	- Totalmente en desacuerdo
         - En desacuerdo
         - Ni de acuerdo ni en desacuerdo
         - De acuerdo
         - Totalmente de acuerdo
+
+11. (Sólo en post-text) En un proyecto programado con LearningML, ¿para qué serviría usar el bloque "clasifica <texto>"?' 
+
+12. (Sólo en post-test) ¿Qué propuestas de mejora se te ocurren para la herramienta LearningML?
